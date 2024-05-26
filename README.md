@@ -8,6 +8,13 @@
 
 仓库中的内容涵盖了各种技术领域和系统架构，从前沿的新技术到经典的设计模式，为技术爱好者和从业者提供了一个持续学习和交流的平台。
 
+|  服务范围  | [![服务范围：](https://skillicons.dev/icons?i=windows,apple&theme=dark)](https://skillicons.dev) |
+| :--------: | :----------------------------------------------------------- |
+|  使用工具  | [![使用工具：](https://skillicons.dev/icons?i=idea,webstorm,vscode&theme=dark)](https://skillicons.dev) |
+| 后端技术栈 | [![后端技术栈：](https://skillicons.dev/icons?i=java,spring,maven,mysql,redis,mongodb,kafka,elasticsearch,&theme=dark)](https://skillicons.dev) |
+| 前段技术栈 | [![前段技术栈：](https://skillicons.dev/icons?i=js,vue,react,nodejs,ts,npm,pnpm&theme=dark)](https://skillicons.dev) |
+| 基础技术栈 | [![基础技术栈：](https://skillicons.dev/icons?i=git,nginx,jenkins,docker,kubernetes&theme=dark)](https://skillicons.dev) |
+
 # 业务系统架构设计
 |          业务/系统           | 简介 | 文档地址 |
 | :--------------------------: | ---- | -------- |
